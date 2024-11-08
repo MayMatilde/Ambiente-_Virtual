@@ -1,0 +1,7 @@
+caminho do arquivo: mkdir nome_do_ambiente
+caminho do arquivo: python3 -m venv nome_do_ambiente
+caminho do arquivo nome_do_ambiente: source nome_do_ambiente/bin/activate
+  (nome_do_ambiente) caminho do arquivo: pip install flask 
+
+  
+  
